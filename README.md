@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elizabethonafuwa
 - 👀 I’m interested in building an app and improving my coding skills.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on app building.
 
 <!---
